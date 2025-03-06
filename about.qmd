@@ -2,8 +2,40 @@
 title: "Projects"
 ---
 
-About this site
 
-```{r}
-1 + 1
-```
+
+## CricClubs
+
+- Built a predictor to predict the winner of an upcoming cricket game being played in the Northern California Cricket Association (NCCA)
+  + Final model reached 74% accuracy, experimented with various multi-classification algorithms such as logistic regression, extreme gradient boost, and support vector machines
+- Built a suggester to suggest teams to either bat or bowl first upon winning the coin toss
+- Integrated the predictor and suggestor into an R-shiny web app which allows users to change model parameters, squads, and match venues before predicting and suggesting
+
+<div style="text-align: center;">
+  [Presentation](SeniorProjectFinalPresentation.pdf){.btn .btn-outline-primary}
+</div>
+
+
+## Bruin Sports Analytics
+
+- Produced quarterly articles surrounding the current sports atmosphere, exploring sports like baseball and cricket
+
+
+<div style="text-align: center;">
+  <a href="https://www.bruinsportsanalytics.com/post/yankees-sixty-homers" target="_blank">
+    <img src="Yankee.png" alt="Alt Text" width="200" class="image-hover">
+  </a>
+  <a href="https://www.bruinsportsanalytics.com/post/cricket-ipl-evolution" target="_blank">
+    <img src="IPL.png" alt="Alt Text" width="200" class="image-hover">
+  </a>
+</div>
+
+
+## Sports Betting
+
+
+
+
+
+
+

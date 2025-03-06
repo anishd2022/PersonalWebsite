@@ -20,40 +20,6 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for syntax highlighting */
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-}
 </style>
 
 
@@ -142,7 +108,15 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#cricclubs" id="toc-cricclubs" class="nav-link active" data-scroll-target="#cricclubs">CricClubs</a></li>
+  <li><a href="#bruin-sports-analytics" id="toc-bruin-sports-analytics" class="nav-link" data-scroll-target="#bruin-sports-analytics">Bruin Sports Analytics</a></li>
+  <li><a href="#sports-betting" id="toc-sports-betting" class="nav-link" data-scroll-target="#sports-betting">Sports Betting</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -166,15 +140,34 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </header>
 
 
-<p>About this site</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="dv">1</span> <span class="sc">+</span> <span class="dv">1</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 2</code></pre>
+<section id="cricclubs" class="level2">
+<h2 class="anchored" data-anchor-id="cricclubs">CricClubs</h2>
+<ul>
+<li>Built a predictor to predict the winner of an upcoming cricket game being played in the Northern California Cricket Association (NCCA)
+<ul>
+<li>Final model reached 74% accuracy, experimented with various multi-classification algorithms such as logistic regression, extreme gradient boost, and support vector machines</li>
+</ul></li>
+<li>Built a suggester to suggest teams to either bat or bowl first upon winning the coin toss</li>
+<li>Integrated the predictor and suggestor into an R-shiny web app which allows users to change model parameters, squads, and match venues before predicting and suggesting</li>
+</ul>
+<div style="text-align: center;">
+<p><a href="SeniorProjectFinalPresentation.pdf" class="btn btn-outline-primary">Presentation</a></p>
 </div>
+</section>
+<section id="bruin-sports-analytics" class="level2">
+<h2 class="anchored" data-anchor-id="bruin-sports-analytics">Bruin Sports Analytics</h2>
+<ul>
+<li>Produced quarterly articles surrounding the current sports atmosphere, exploring sports like baseball and cricket</li>
+</ul>
+<div style="text-align: center;">
+<p><a href="https://www.bruinsportsanalytics.com/post/yankees-sixty-homers" target="_blank"> <img src="Yankee.png" alt="Alt Text" width="200" class="image-hover"> </a> <a href="https://www.bruinsportsanalytics.com/post/cricket-ipl-evolution" target="_blank"> <img src="IPL.png" alt="Alt Text" width="200" class="image-hover"> </a></p>
 </div>
+</section>
+<section id="sports-betting" class="level2">
+<h2 class="anchored" data-anchor-id="sports-betting">Sports Betting</h2>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

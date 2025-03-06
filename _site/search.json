@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "Projects",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Built a predictor to predict the winner of an upcoming cricket game being played in the Northern California Cricket Association (NCCA)\n\nFinal model reached 74% accuracy, experimented with various multi-classification algorithms such as logistic regression, extreme gradient boost, and support vector machines\n\nBuilt a suggester to suggest teams to either bat or bowl first upon winning the coin toss\nIntegrated the predictor and suggestor into an R-shiny web app which allows users to change model parameters, squads, and match venues before predicting and suggesting\n\n\nPresentation"
   },
   {
     "objectID": "index.html#education",
@@ -33,5 +33,26 @@
     "title": "Anish Deshpande",
     "section": "",
     "text": "Anish Deshpande is a \\(3^{rd}\\) year undergrad majoring in Statistics and Data Science at UCLA. His passion for data science is driven by his desire for optimality and efficiency in processes. While Anish loves to apply statistics in his daily life, he primarily enjoys the intersection of sports and data.\nAnish has played cricket since the age of 9, and gone on to play at the professional level for Minor League Cricket and regional level for USA Cricket. In his free time, you may find Anish playing a cricket game, going for a run, sports betting, reading, or spending time with his family in the Bay Area."
+  },
+  {
+    "objectID": "about.html#bruin-sports-analytics",
+    "href": "about.html#bruin-sports-analytics",
+    "title": "Projects",
+    "section": "Bruin Sports Analytics",
+    "text": "Bruin Sports Analytics\n\nProduced quarterly articles surrounding the current sports atmosphere, exploring sports like baseball and cricket"
+  },
+  {
+    "objectID": "about.html#sports-betting",
+    "href": "about.html#sports-betting",
+    "title": "Projects",
+    "section": "Sports Betting",
+    "text": "Sports Betting"
+  },
+  {
+    "objectID": "about.html#cricclubs",
+    "href": "about.html#cricclubs",
+    "title": "Projects",
+    "section": "",
+    "text": "Built a predictor to predict the winner of an upcoming cricket game being played in the Northern California Cricket Association (NCCA)\n\nFinal model reached 74% accuracy, experimented with various multi-classification algorithms such as logistic regression, extreme gradient boost, and support vector machines\n\nBuilt a suggester to suggest teams to either bat or bowl first upon winning the coin toss\nIntegrated the predictor and suggestor into an R-shiny web app which allows users to change model parameters, squads, and match venues before predicting and suggesting\n\n\nPresentation"
   }
 ]
