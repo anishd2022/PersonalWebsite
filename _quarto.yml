@@ -11,9 +11,13 @@ website:
 
 format:
   html:
-    theme: lux
+    theme: 
+      - lux
+      - brand
     css: styles.css
     toc: true
 
 editor: visual
 
+execute: 
+  freeze: auto
