@@ -10,25 +10,31 @@ about:
     - icon: github
       text: Github
       href: https://github.com/anishd2022
+    - icon: envelope
+      text: Email
+      url: "mailto:animaniusa@gmail.com"
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/anishd13
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+
+## About 
+
+Anish Deshpande is a $3^{rd}$ year undergrad majoring in Statistics and Data Science at UCLA. His passion for data science is driven by his desire for optimality and efficiency in processes. While Anish loves to apply statistics in his daily life, he primarily enjoys the intersection of sports and data. 
+
+Anish has played cricket since the age of 9, and gone on to play at the professional level for Minor League Cricket and regional level for USA Cricket. In his free time, you may find Anish playing a cricket game, going for a run, sports betting, reading, or spending time with his family in the Bay Area. 
+
 
 ## Education
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
+University of California, Los Angeles | Los Angeles, CA |
+B.S in Statistics and Data Science | Sept 2022 - June 2026
 
-Macalester College | St. Paul, MN
-B.A in Economics | Sept 2007 - June 2011
-
-## Experience
-
-Wengo Analytics | Head Data Scientist | April 2018 - present
-
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
+Basis Independent Silicon Valley High School | San Jose, CA | Aug 2018 - June 2022
 
 
+[Resume](Resume_2024-2025_School_Year.pdf){.btn .btn-outline-primary}
 
 
 
