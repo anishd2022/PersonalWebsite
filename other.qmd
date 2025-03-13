@@ -1,0 +1,9 @@
+---
+title: "Other"
+---
+
+<hr style="border: 2px solid black; margin: 20px 0;">
+
+- This page will have other stuff about me...
+
+

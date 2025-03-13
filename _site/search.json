@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "Projects",
     "section": "",
-    "text": "Built a predictor to predict the winner of an upcoming cricket game being played in the Northern California Cricket Association (NCCA)\n\nFinal model reached 74% accuracy, experimented with various multi-classification algorithms such as logistic regression, extreme gradient boost, and support vector machines\n\nBuilt a suggester to suggest teams to either bat or bowl first upon winning the coin toss\nIntegrated the predictor and suggestor into an R-shiny web app which allows users to change model parameters, squads, and match venues before predicting and suggesting\n\n\nPresentation"
+    "text": "Built a predictor to predict the winner of an upcoming cricket game being played in the Northern California Cricket Association (NCCA)\n\nFinal model reached 74% accuracy, experimented with various multi-classification algorithms such as logistic regression, extreme gradient boost, and support vector machines\n\nBuilt a suggester to suggest teams to either bat or bowl first upon winning the coin toss\nIntegrated the predictor and suggestor into an R-shiny web app which allows users to change model parameters, squads, and match venues before predicting and suggesting\n\n\nPresentation\n\n  \n\nApp Demo Video"
   },
   {
     "objectID": "index.html#education",
@@ -53,6 +53,34 @@
     "href": "about.html#cricclubs",
     "title": "Projects",
     "section": "",
-    "text": "Built a predictor to predict the winner of an upcoming cricket game being played in the Northern California Cricket Association (NCCA)\n\nFinal model reached 74% accuracy, experimented with various multi-classification algorithms such as logistic regression, extreme gradient boost, and support vector machines\n\nBuilt a suggester to suggest teams to either bat or bowl first upon winning the coin toss\nIntegrated the predictor and suggestor into an R-shiny web app which allows users to change model parameters, squads, and match venues before predicting and suggesting\n\n\nPresentation"
+    "text": "Built a predictor to predict the winner of an upcoming cricket game being played in the Northern California Cricket Association (NCCA)\n\nFinal model reached 74% accuracy, experimented with various multi-classification algorithms such as logistic regression, extreme gradient boost, and support vector machines\n\nBuilt a suggester to suggest teams to either bat or bowl first upon winning the coin toss\nIntegrated the predictor and suggestor into an R-shiny web app which allows users to change model parameters, squads, and match venues before predicting and suggesting\n\n\nPresentation\n\n  \n\nApp Demo Video"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Built a predictor to predict the winner of an upcoming cricket game being played in the Northern California Cricket Association (NCCA)\n\nFinal model reached 74% accuracy, experimented with various multi-classification algorithms such as logistic regression, extreme gradient boost, and support vector machines\n\nBuilt a suggester to suggest teams to either bat or bowl first upon winning the coin toss\nIntegrated the predictor and suggestor into an R-shiny web app which allows users to change model parameters, squads, and match venues before predicting and suggesting\n\n\nPresentation\n\n  \n\nApp Demo Video"
+  },
+  {
+    "objectID": "projects.html#cricclubs",
+    "href": "projects.html#cricclubs",
+    "title": "Projects",
+    "section": "CricClubs",
+    "text": "CricClubs\n\nBuilt a predictor to predict the winner of an upcoming cricket game being played in the Northern California Cricket Association (NCCA)\n\nFinal model reached 74% accuracy, experimented with various multi-classification algorithms such as logistic regression, extreme gradient boost, and support vector machines\n\nBuilt a suggester to suggest teams to either bat or bowl first upon winning the coin toss\nIntegrated the predictor and suggestor into an R-shiny web app which allows users to change model parameters, squads, and match venues before predicting and suggesting\n\n\nPresentation\n\n  \n\nApp Demo Video"
+  },
+  {
+    "objectID": "projects.html#bruin-sports-analytics",
+    "href": "projects.html#bruin-sports-analytics",
+    "title": "Projects",
+    "section": "Bruin Sports Analytics",
+    "text": "Bruin Sports Analytics\n\nProduced quarterly articles surrounding the current sports atmosphere, exploring sports like baseball and cricket"
+  },
+  {
+    "objectID": "projects.html#sports-betting",
+    "href": "projects.html#sports-betting",
+    "title": "Projects",
+    "section": "Sports Betting",
+    "text": "Sports Betting\n\nPositive EV sports bettor, using statistics and finding discrepancies between odds on various sports books to gain an edge in the sports betting market and beat the vigorish. Used tools like Oddsjam and DGF Fantasy to make long run profits\nOne of my personal projects focused on the Martingale strategy applied to sports betting, specifically to 2 man parlays on PrizePicks. My goal was too see if this strategy was profitable both through simulations in R and statistical calculations\n\n\nMartingale Strategy\n\n\nWorked on a project that attempted to find correlation between NBA players over/under lines in order to take advantage of sportsbooks’ fixed payout systems (code found in github)"
   }
 ]

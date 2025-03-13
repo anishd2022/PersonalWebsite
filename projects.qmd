@@ -1,0 +1,45 @@
+---
+title: "Projects"
+---
+
+<hr style="border: 2px solid black; margin: 20px 0;">
+
+## CricClubs
+
+-   Built a predictor to predict the winner of an upcoming cricket game being played in the Northern California Cricket Association (NCCA)
+    -   Final model reached 74% accuracy, experimented with various multi-classification algorithms such as logistic regression, extreme gradient boost, and support vector machines
+-   Built a suggester to suggest teams to either bat or bowl first upon winning the coin toss
+-   Integrated the predictor and suggestor into an R-shiny web app which allows users to change model parameters, squads, and match venues before predicting and suggesting
+
+::: {style="text-align: center;"}
+[Presentation](SeniorProjectFinalPresentation.pdf){.btn .btn-outline-primary}
+
+<br><br>
+
+<a href="SeniorProjectAppDemo.mp4" target="_blank" style="display: block; position: relative;"> <img src="CricClubsLogo.png" alt="Play Video" class="image-hover" width="250" style="border: 4px solid black; border-radius: 10px;"/> </a>
+
+<p style="margin-top: 10px; font-size: 24px; color: black;">
+
+App Demo Video
+
+</p>
+:::
+
+## Bruin Sports Analytics
+
+-   Produced quarterly articles surrounding the current sports atmosphere, exploring sports like baseball and cricket
+
+::: {style="text-align: center;"}
+<a href="https://www.bruinsportsanalytics.com/post/yankees-sixty-homers" target="_blank"> <img src="Yankee.png" alt="Alt Text" class="image-hover" width="200"/> </a> <a href="https://www.bruinsportsanalytics.com/post/cricket-ipl-evolution" target="_blank"> <img src="IPL.png" alt="Alt Text" class="image-hover" width="200"/> </a>
+:::
+
+## Sports Betting
+
+-   Positive EV sports bettor, using statistics and finding discrepancies between odds on various sports books to gain an edge in the sports betting market and beat the vigorish. Used tools like Oddsjam and DGF Fantasy to make long run profits
+-   One of my personal projects focused on the Martingale strategy applied to sports betting, specifically to 2 man parlays on PrizePicks. My goal was too see if this strategy was profitable both through simulations in R and statistical calculations
+
+::: {style="text-align: center;"}
+[Martingale Strategy](Martingale.pdf){.btn .btn-outline-primary}
+:::
+
+-   Worked on a project that attempted to find correlation between NBA players over/under lines in order to take advantage of sportsbooks' fixed payout systems (code found in github)
