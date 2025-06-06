@@ -1,5 +1,9 @@
 project:
   type: website
+  output-dir: ../_site
+  resources:
+    - ../PDFs
+    - ../Images_and_Attachments
 
 website:
   title: "Anish Deshpande"
@@ -7,12 +11,14 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - projects.qmd
-      - other.qmd
+      - href: projects.qmd
+        text: Projects
+      - href: other.qmd
+        text: Other
 
 format:
   html:
-    theme: 
+    theme:
       - lux
       - brand
     css: styles.css
@@ -20,5 +26,5 @@ format:
 
 editor: visual
 
-execute: 
+execute:
   freeze: auto
