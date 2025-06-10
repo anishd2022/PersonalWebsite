@@ -2,7 +2,7 @@
 title: "Anish Deshpande"
 about:
   template: jolla
-  image: Profile_Pic.jpg
+  image: ../Images_and_Attachments/Profile_Pic.jpg
   links:
     - icon: trophy
       text: cricket stats
@@ -30,4 +30,4 @@ University of California, Los Angeles \| Los Angeles, CA \| B.S in Statistics an
 
 Basis Independent Silicon Valley High School \| San Jose, CA \| Aug 2018 - June 2022
 
-[Resume](Resume_2024-2025_School_Year.pdf){.btn .btn-outline-primary}
+[Resume](../PDFs/Resume_2024-2025_School_Year.pdf){.btn .btn-outline-primary}

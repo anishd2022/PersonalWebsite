@@ -54,5 +54,12 @@
     "title": "Anish Deshpande",
     "section": "Education",
     "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA | B.S in Statistics and Data Science | Sept 2022 - June 2026\nBasis Independent Silicon Valley High School | San Jose, CA | Aug 2018 - June 2022\nResume"
+  },
+  {
+    "objectID": "projects.html#forecasting-scores-in-t20-cricket-games",
+    "href": "projects.html#forecasting-scores-in-t20-cricket-games",
+    "title": "Projects",
+    "section": "Forecasting Scores in T20 Cricket Games",
+    "text": "Forecasting Scores in T20 Cricket Games\n\nWorking with Professor Dave Zes at UCLA, I took on a STATS 199 undergraduate research project that aimed to forecast the final score in a T20 inning after an arbitrary intervention point sometime earlier in the inning. I explored various methods, such as linear regression, ARIMA models, KNN simulations, multi-dimensional robust synthetic control (mRSC), and the R mactivate library developed by Prof. Zes. I analyzed the accuracy and the pros and cons of each method used.\n\n\nForecasting Scores in T20 Cricket Games"
   }
 ]
