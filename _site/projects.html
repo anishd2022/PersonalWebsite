@@ -188,20 +188,24 @@ ul.task-list li input[type="checkbox"] {
 <section id="bayesian-alternative-to-the-duckworth-lewis-method" class="level2">
 <h2 class="anchored" data-anchor-id="bayesian-alternative-to-the-duckworth-lewis-method">Bayesian Alternative to the Duckworth-Lewis Method</h2>
 <ul>
-<li>In rain-affected T20 cricket matches, estimating target scores fairly and accurately is a difficult challenge. The Duckworth-Lewis (DL) method addresses this by estimating a batting team’s remaining resources using 2 variables: overs left and wickets lost. However, the DL method suffers from key limitations like a non-monotonic resource table and a lack of adaptability to modern gameplay. In this project, we propose <em>The Trident</em>, a Bayesian model that generates an improved, data-driven resource table that better replicates the changing strategies during T20 matches. Leveraging a dataset of roughly 10,000 professional T20 innings from Cricsheet, we constructed a smoothed, monotonic estimate of scoring potential using Stan-based Bayesian inference. Our model captures more realistic game dynamics by explicitly modeling 3 separate innings phases (powerplay, middle overs, and death overs) and accounts for a monotone structure in its resource table. Using RMSE ratios between <em>The Trident</em> and the DL method, empirical results show that <em>The Trident</em> outperforms the DL, especially during the powerplay and middle overs. These improvements highlight the promise of Bayesian modeling for addressing shortcomings in the DL method.</li>
+<li>In rain-affected T20 cricket matches, estimating target scores fairly and accurately is a difficult challenge. The Duckworth-Lewis (DL) method addresses this by estimating a batting team’s remaining resources using 2 variables: overs left and wickets lost. However, the DL method suffers from key limitations like a non-monotonic resource table and a lack of adaptability to modern gameplay. In this project, we propose <em>The Trident</em>, a Bayesian model that generates an improved, data-driven resource table that better replicates the changing strategies during T20 matches. Leveraging a dataset of roughly 10,000 professional T20 innings from Cricsheet, we constructed a smoothed, monotonic estimate of scoring potential using Stan-based Bayesian inference. Our model captures more realistic game dynamics by explicitly modeling 3 separate innings phases (powerplay, middle overs, and death overs) and accounts for a monotone structure in its resource table. Using RMSE ratios between <em>The Trident</em> and the DL method, empirical results show that <em>The Trident</em> outperforms the DL, especially during the powerplay and middle overs. These improvements highlight the promise of Bayesian modeling for addressing shortcomings in the DL method. (paper will be added to the website soon)</li>
 </ul>
-<div style="text-align: center;">
-<p><a href="../PDFs/DLBayesian_Paper.pdf" class="btn btn-outline-primary">Bayesian Approach to Duckworth-Lewis</a></p>
-</div>
+<!--
+::: {style="text-align: center;"}
+[Bayesian Approach to Duckworth-Lewis](../PDFs/DLBayesian_Paper.pdf){.btn .btn-outline-primary}
+:::
+-->
 </section>
 <section id="forecasting-scores-in-t20-cricket-games" class="level2">
 <h2 class="anchored" data-anchor-id="forecasting-scores-in-t20-cricket-games">Forecasting Scores in T20 Cricket Games</h2>
 <ul>
-<li>Working with Professor Dave Zes at UCLA, I took on a STATS 199 undergraduate research project that aimed to forecast the final score in a T20 inning after an arbitrary intervention point sometime earlier in the inning. I explored various methods, such as linear regression, ARIMA models, KNN simulations, multi-dimensional robust synthetic control (mRSC), and the R <a href="https://cran.r-project.org/web/packages/mactivate/mactivate.pdf">mactivate</a> library developed by Prof.&nbsp;Zes. I analyzed the accuracy and the pros and cons of each method used.</li>
+<li>Working with Professor Dave Zes at UCLA, I took on a STATS 199 undergraduate research project that aimed to forecast the final score in a T20 inning after an arbitrary intervention point sometime earlier in the inning. I explored various methods, such as linear regression, ARIMA models, KNN simulations, multi-dimensional robust synthetic control (mRSC), and the R <a href="https://cran.r-project.org/web/packages/mactivate/mactivate.pdf">mactivate</a> library developed by Prof.&nbsp;Zes. I analyzed the accuracy and the pros and cons of each method used. (paper will be added to the website soon)</li>
 </ul>
-<div style="text-align: center;">
-<p><a href="../PDFs/ForecastingScores.pdf" class="btn btn-outline-primary">Forecasting Scores in T20 Cricket Games</a></p>
-</div>
+<!--
+::: {style="text-align: center;"}
+[Forecasting Scores in T20 Cricket Games](../PDFs/ForecastingScores.pdf){.btn .btn-outline-primary}
+:::
+-->
 
 
 </section>
