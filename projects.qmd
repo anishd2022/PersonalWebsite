@@ -1,0 +1,63 @@
+---
+title: "Projects"
+---
+
+<hr style="border: 2px solid black; margin: 20px 0;">
+
+## CricClubs
+
+-   Built a predictor to predict the winner of an upcoming cricket game being played in the Northern California Cricket Association (NCCA)
+    -   Final model reached 74% accuracy, experimented with various multi-classification algorithms such as logistic regression, extreme gradient boost, and support vector machines
+-   Built a suggester to suggest teams to either bat or bowl first upon winning the coin toss
+-   Integrated the predictor and suggestor into an R-shiny web app which allows users to change model parameters, squads, and match venues before predicting and suggesting
+
+::: {style="text-align: center;"}
+[Presentation](../PDFs/SeniorProjectFinalPresentation.pdf){.btn .btn-outline-primary}
+
+<br><br>
+
+<a href="../Images_and_Attachments/SeniorProjectAppDemo.mp4" target="_blank" style="display: block; position: relative;"> <img src="../Images_and_Attachments/CricClubsLogo.png" alt="Play Video" class="image-hover" width="250" style="border: 4px solid black; border-radius: 10px;"/> </a>
+
+<p style="margin-top: 10px; font-size: 24px; color: black;">
+
+App Demo Video
+
+</p>
+:::
+
+## Bruin Sports Analytics
+
+-   Produced quarterly articles surrounding the current sports atmosphere, exploring sports like baseball and cricket
+
+::: {style="text-align: center;"}
+<a href="https://www.bruinsportsanalytics.com/post/yankees-sixty-homers" target="_blank"> <img src="../Images_and_Attachments/Yankee.png" alt="Alt Text" class="image-hover" width="200"/> </a> <a href="https://www.bruinsportsanalytics.com/post/cricket-ipl-evolution" target="_blank"> <img src="../Images_and_Attachments/IPL.png" alt="Alt Text" class="image-hover" width="200"/> </a>
+:::
+
+## Sports Betting
+
+-   Positive EV sports bettor, using statistics and finding discrepancies between odds on various sports books to gain an edge in the sports betting market and beat the vigorish. Used tools like Oddsjam and DGF Fantasy to make long run profits
+-   One of my personal projects focused on the Martingale strategy applied to sports betting, specifically to 2 man parlays on PrizePicks. My goal was too see if this strategy was profitable both through simulations in R and statistical calculations
+
+::: {style="text-align: center;"}
+[Martingale Strategy](../PDFs/Martingale.pdf){.btn .btn-outline-primary}
+:::
+
+## Bayesian Alternative to the Duckworth-Lewis Method
+
+-   In rain-affected T20 cricket matches, estimating target scores fairly and accurately is a difficult challenge. The Duckworth-Lewis (DL) method addresses this by estimating a batting team’s remaining resources using 2 variables: overs left and wickets lost. However, the DL method suffers from key limitations like a non-monotonic resource table and a lack of adaptability to modern gameplay. In this project, we propose *The Trident*, a Bayesian model that generates an improved, data-driven resource table that better replicates the changing strategies during T20 matches. Leveraging a dataset of roughly 10,000 professional T20 innings from Cricsheet, we constructed a smoothed, monotonic estimate of scoring potential using Stan-based Bayesian inference. Our model captures more realistic game dynamics by explicitly modeling 3 separate innings phases (powerplay, middle overs, and death overs) and accounts for a monotone structure in its resource table. Using RMSE ratios between *The Trident* and the DL method, empirical results show that *The Trident* outperforms the DL, especially during the powerplay and middle overs. These improvements highlight the promise of Bayesian modeling for addressing shortcomings in the DL method.
+
+::: {style="text-align: center;"}
+[Bayesian Approach to Duckworth-Lewis](../PDFs/DLBayesian_Paper.pdf){.btn .btn-outline-primary}
+:::
+
+## Forecasting Scores in T20 Cricket Games
+
+- Working with Professor Dave Zes at UCLA, I took on a STATS 199 undergraduate research project that aimed to forecast the final score in a T20 inning after an arbitrary intervention point sometime earlier in the inning. I explored various methods, such as linear regression, ARIMA models, KNN simulations, multi-dimensional robust synthetic control (mRSC), and the R [mactivate](https://cran.r-project.org/web/packages/mactivate/mactivate.pdf) library developed by Prof. Zes. I analyzed the accuracy and the pros and cons of each method used. 
+
+::: {style="text-align: center;"}
+[Forecasting Scores in T20 Cricket Games](../PDFs/ForecastingScores.pdf){.btn .btn-outline-primary}
+:::
+
+
+This is a test!
+

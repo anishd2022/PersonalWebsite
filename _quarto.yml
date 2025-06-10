@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: ../_site
+  output-dir: _site
   resources:
     - PDFs
     - Images_and_Attachments
@@ -9,11 +9,11 @@ website:
   title: "Anish Deshpande"
   navbar:
     right:
-      - href: Code/index.qmd
+      - href: index.qmd
         text: Home
-      - href: Code/projects.qmd
+      - href: projects.qmd
         text: Projects
-      - href: Code/other.qmd
+      - href: other.qmd
         text: Other
 
 format:
@@ -23,8 +23,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-editor: visual
-
-execute:
-  freeze: auto
