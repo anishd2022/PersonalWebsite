@@ -60,6 +60,6 @@
     "href": "projects.html#forecasting-scores-in-t20-cricket-games",
     "title": "Projects",
     "section": "Forecasting Scores in T20 Cricket Games",
-    "text": "Forecasting Scores in T20 Cricket Games\n\nWorking with Professor Dave Zes at UCLA, I took on a STATS 199 undergraduate research project that aimed to forecast the final score in a T20 inning after an arbitrary intervention point sometime earlier in the inning. I explored various methods, such as linear regression, ARIMA models, KNN simulations, multi-dimensional robust synthetic control (mRSC), and the R mactivate library developed by Prof. Zes. I analyzed the accuracy and the pros and cons of each method used. (paper will be added to the website soon)"
+    "text": "Forecasting Scores in T20 Cricket Games\n\nWorking with Professor Dave Zes at UCLA, I took on a STATS 199 undergraduate research project that aimed to forecast the final score in a T20 inning after an arbitrary intervention point sometime earlier in the inning. I explored various methods, such as linear regression, ARIMA models, KNN simulations, multi-dimensional robust synthetic control (mRSC), and the R mactivate library developed by Prof. Zes. I analyzed the accuracy and the pros and cons of each method used.\n\n\nForecasting Scores in T20 Cricket Games"
   }
 ]
