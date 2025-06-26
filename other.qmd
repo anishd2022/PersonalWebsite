@@ -1,7 +1,25 @@
 ---
-title: "Other"
+title: "GRE Vocab Review"
 ---
 
 <hr style="border: 2px solid black; margin: 20px 0;">
 
+<!-- Iframe with scrolling explicitly turned off -->
+<iframe
+  id="vocab-app-iframe"
+  src="/vocab/"
+  style="width: 100%; border: none; display: block;"
+  scrolling="no"
+  title="GRE Vocab Application">
+</iframe>
 
+<!-- This script listens for messages and resizes the iframe -->
+<script>
+  window.addEventListener('message', function(event) {
+    if (event.data.type === 'resize' && event.data.height) {
+      const iframe = document.getElementById('vocab-app-iframe');
+      // Set the height directly to the content's scrollHeight
+      iframe.style.height = event.data.height + 'px';
+    }
+  });
+</script>
