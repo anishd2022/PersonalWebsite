@@ -66,35 +66,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -162,7 +133,7 @@ window.Quarto = {
 
 <section id="about" class="level2">
 <h2 data-anchor-id="about">About</h2>
-<p>Anish Deshpande is a <span class="math inline">\(4^{th}\)</span> year undergrad majoring in Statistics and Data Science at UCLA. His passion for data science is driven by his desire for optimality and efficiency in processes. While Anish loves to apply statistics in his daily life, he primarily enjoys the intersection of sports and data.</p>
+<p>Anish Deshpande is an incoming MS in Artificial Intelligence student at Columbia University with a focus in Finance and Operations. He completed his Bachelor’s in Statistics and Data Science at UCLA in 2026. His passion for data science is driven by his desire for optimality and efficiency in processes. While Anish loves to apply statistics in his daily life, he primarily enjoys the intersection of sports and data. He currently works part time for the Bay Area’s Major League Cricket Team, the San Francisco Unicorns.</p>
 <p>Anish has played cricket since the age of 9, and gone on to play at the professional level for Minor League Cricket and regional level for USA Cricket. In his free time, you may find Anish playing a cricket game, going for a run, sports betting, reading, or spending time with his family in the Bay Area.</p>
 </section>
 <section id="education" class="level2">
