@@ -11,3 +11,19 @@ title: ""
 :::
 
 ## SF Unicorns
+
+::: {.unicorn-links}
+<div class="unicorn-link-item">
+  <a class="unicorn-card" href="https://www.sfunicorns.com/" target="_blank" rel="noopener noreferrer" aria-label="Visit the San Francisco Unicorns website">
+    <img class="unicorn-card-image" src="Images_and_Attachments/SF_Unicorns/sf_unicorns_logo.png" alt="San Francisco Unicorns logo">
+  </a>
+  <p>SF Unicorns Team Page</p>
+</div>
+
+<div class="unicorn-link-item">
+  <a class="unicorn-card" href="https://www.cricexec.com/ai-has-arrived-in-cricket-the-san-francisco-unicorns-built-the-proof-then-made-it-public/689575481/" target="_blank" rel="noopener noreferrer" aria-label="Read AI Has Arrived in Cricket">
+    <img class="unicorn-card-image" src="Images_and_Attachments/SF_Unicorns/cricexec-logo.png" alt="Cricexec logo">
+  </a>
+  <p>The Future of Cricket Analytics</p>
+</div>
+:::
