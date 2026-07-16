@@ -1,0 +1,78 @@
+---
+title: "Celebrities"
+lightbox:
+  effect: fade
+  loop: true
+---
+
+::: {.gallery}
+![Matt Short](Images_and_Attachments/celebrities/matt-short.jpg){group="celebrities"}
+
+![Shane Watson](Images_and_Attachments/celebrities/shane-watson.jpg){group="celebrities"}
+
+![Steven Adams](Images_and_Attachments/celebrities/steven-adams.jpg){group="celebrities"}
+
+![Andre Drummond](Images_and_Attachments/celebrities/andre-drummond.jpg){group="celebrities"}
+
+![Weston Estate](Images_and_Attachments/celebrities/weston-estate.jpg){group="celebrities"}
+
+![Rohit Sharma](Images_and_Attachments/celebrities/rohit-sharma.PNG){group="celebrities"}
+
+![Liam Plunkett](Images_and_Attachments/celebrities/liam-plunkett.jpg){group="celebrities"}
+
+![Haris Rauf](Images_and_Attachments/celebrities/haris-rauf.jpg){group="celebrities"}
+
+![Kyle Kuzma](Images_and_Attachments/celebrities/kyle-kuzma.jpg){group="celebrities"}
+
+![Bogdan Bogdanovic](Images_and_Attachments/celebrities/bogdan-bogdanovic.jpg){group="celebrities"}
+
+![Trent Boult](Images_and_Attachments/celebrities/trent-boult.jpg){group="celebrities"}
+
+![Draymond Green](Images_and_Attachments/celebrities/draymond-green.jpg){group="celebrities"}
+
+![Nicholas Pooran](Images_and_Attachments/celebrities/nicholas-pooran.jpg){group="celebrities"}
+
+![Jordan Poole](Images_and_Attachments/celebrities/jordan-poole.jpg){group="celebrities"}
+
+![Kieron Pollard](Images_and_Attachments/celebrities/kieron-pollard.jpg){group="celebrities"}
+
+![Brandin Podziemski](Images_and_Attachments/celebrities/brandin-podziemski.jpg){group="celebrities"}
+
+![Ravichandran Ashwin](Images_and_Attachments/celebrities/ravichandran-ashwin.JPG){group="celebrities"}
+
+![Steve Kerr](Images_and_Attachments/celebrities/steve-kerr.jpg){group="celebrities"}
+
+![Alperen Sengun](Images_and_Attachments/celebrities/alperen-sengun.jpg){group="celebrities"}
+
+![Myles Turner](Images_and_Attachments/celebrities/myles-turner.jpg){group="celebrities"}
+
+![Kevon Looney](Images_and_Attachments/celebrities/kevon-looney.jpg){group="celebrities"}
+
+![DeAndre Jordan](Images_and_Attachments/celebrities/deandre-jordan.jpg){group="celebrities"}
+
+![Bobby Portis](Images_and_Attachments/celebrities/bobby-portis.jpg){group="celebrities"}
+
+![Steph Curry](Images_and_Attachments/celebrities/steph-curry.jpg){group="celebrities"}
+
+![Gary Payton II](Images_and_Attachments/celebrities/gary-payton-II.jpg){group="celebrities"}
+
+![Mikal Bridges](Images_and_Attachments/celebrities/mikal-bridges.jpg){group="celebrities"}
+
+![Adam Gilchrist](Images_and_Attachments/celebrities/adam-gilchrist.jpg){group="celebrities"}
+
+![Coco Gauff](Images_and_Attachments/celebrities/coco-gauff.jpg){group="celebrities"}
+
+![Buddy Hield](Images_and_Attachments/celebrities/buddy-hield.jpg){group="celebrities"}
+
+![Jonathan Kuminga](Images_and_Attachments/celebrities/jonathan-kuminga.jpg){group="celebrities"}
+
+![Fred VanVleet](Images_and_Attachments/celebrities/fred-vanvleet.jpg){group="celebrities"}
+
+![Jalen Johnson](Images_and_Attachments/celebrities/jalen-johnson.jpg){group="celebrities"}
+
+![Jalen Brunson](Images_and_Attachments/celebrities/jalen-brunson.jpg){group="celebrities"}
+
+![Trae Young](Images_and_Attachments/celebrities/trae-young.jpg){group="celebrities"}
+
+![Moses Moody](Images_and_Attachments/celebrities/moses-moody.jpg){group="celebrities"}
+:::

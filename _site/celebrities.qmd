@@ -1,0 +1,7 @@
+---
+title: "Celebrities"
+---
+
+::: {.gallery}
+<!-- Add gallery images here. -->
+:::

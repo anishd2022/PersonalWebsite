@@ -14,7 +14,7 @@ website:
       - href: projects.qmd
         text: Projects
       - href: other.qmd
-        text: GRE Vocab App
+        text: Other
 
 format:
   html:

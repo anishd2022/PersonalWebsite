@@ -60,7 +60,19 @@ App Demo Video
 [Forecasting Scores in T20 Cricket Games](../PDFs/ForecastingScores.pdf){.btn .btn-outline-primary}
 :::
 
+## GRE Vocab App
 
+-   An interactive web application to master GRE vocabulary using a Spaced Repetition System (SRS) and AI-generated example sentences.
 
+::: {style="text-align: center; margin-top: 20px;"}
+<a href="https://gre-vocab-backend-apjd.onrender.com/" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://placehold.co/450x280/007bff/ffffff?text=Launch+Vocab+App&font=raleway"
+    alt="GRE Vocab App"
+    class="image-hover"
+    width="250"
+  />
+</a>
+:::
 
 
