@@ -49,7 +49,7 @@
   flex-wrap: wrap;
   justify-content: center;
   gap: 1.5rem;
-  margin-top: 1.5rem;
+  margin: 1.5rem 0 2.5rem;
 }
 
 .unicorn-card {
@@ -88,6 +88,67 @@
 }
 
 .unicorn-link-item p {
+  margin: 0.65rem 0 0;
+  font-size: 0.9rem;
+}
+
+.cricket-lens-link {
+  width: min(100%, 420px);
+  margin: 1.5rem auto 2.5rem;
+  text-align: center;
+}
+
+.cricket-lens-card {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 7;
+  overflow: hidden;
+  border: 2px solid #222;
+  border-radius: 0.5rem;
+  background: #e9ecef;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.14);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.cricket-lens-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 26px rgba(0, 0, 0, 0.22);
+}
+
+.cricket-lens-card img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  padding: 1.25rem;
+  object-fit: contain;
+}
+
+.cricket-lens-link p {
+  margin: 0.65rem 0 0;
+  font-size: 0.9rem;
+}
+
+.dashboard-video-link {
+  width: min(100%, 360px);
+  margin: 1.5rem auto 0;
+  text-align: center;
+}
+
+.dashboard-video-link .unicorn-card {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  padding: 0.5rem;
+  background: #fff;
+}
+
+.dashboard-video-image {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.dashboard-video-link p {
   margin: 0.65rem 0 0;
   font-size: 0.9rem;
 }
