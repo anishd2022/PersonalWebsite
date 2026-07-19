@@ -75,4 +75,6 @@ lightbox:
 ![Trae Young](Images_and_Attachments/celebrities/trae-young.jpg){group="celebrities"}
 
 ![Moses Moody](Images_and_Attachments/celebrities/moses-moody.jpg){group="celebrities"}
+
+![Chris Gayle](Images_and_Attachments/celebrities/chris-gayle.jpg){group="celebrities"}
 :::
